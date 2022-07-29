@@ -1,0 +1,15 @@
+C:\ExtensionMethod\ExtensionMethodDemo\bin\Debug\net6.0\ExtensionMethodDemo.exe
+C:\ExtensionMethod\ExtensionMethodDemo\bin\Debug\net6.0\ExtensionMethodDemo.deps.json
+C:\ExtensionMethod\ExtensionMethodDemo\bin\Debug\net6.0\ExtensionMethodDemo.runtimeconfig.json
+C:\ExtensionMethod\ExtensionMethodDemo\bin\Debug\net6.0\ExtensionMethodDemo.dll
+C:\ExtensionMethod\ExtensionMethodDemo\bin\Debug\net6.0\ExtensionMethodDemo.pdb
+C:\ExtensionMethod\ExtensionMethodDemo\obj\Debug\net6.0\ExtensionMethodDemo.csproj.AssemblyReference.cache
+C:\ExtensionMethod\ExtensionMethodDemo\obj\Debug\net6.0\ExtensionMethodDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ExtensionMethod\ExtensionMethodDemo\obj\Debug\net6.0\ExtensionMethodDemo.AssemblyInfoInputs.cache
+C:\ExtensionMethod\ExtensionMethodDemo\obj\Debug\net6.0\ExtensionMethodDemo.AssemblyInfo.cs
+C:\ExtensionMethod\ExtensionMethodDemo\obj\Debug\net6.0\ExtensionMethodDemo.csproj.CoreCompileInputs.cache
+C:\ExtensionMethod\ExtensionMethodDemo\obj\Debug\net6.0\ExtensionMethodDemo.dll
+C:\ExtensionMethod\ExtensionMethodDemo\obj\Debug\net6.0\refint\ExtensionMethodDemo.dll
+C:\ExtensionMethod\ExtensionMethodDemo\obj\Debug\net6.0\ExtensionMethodDemo.pdb
+C:\ExtensionMethod\ExtensionMethodDemo\obj\Debug\net6.0\ExtensionMethodDemo.genruntimeconfig.cache
+C:\ExtensionMethod\ExtensionMethodDemo\obj\Debug\net6.0\ref\ExtensionMethodDemo.dll
